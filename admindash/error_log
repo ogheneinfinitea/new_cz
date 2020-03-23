@@ -1,0 +1,8 @@
+[21-May-2019 15:44:45 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/cztradin/public_html/admindash/deactivate.php on line 146
+[29-May-2019 08:32:08 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/cztradin/public_html/admindash/deactivate.php on line 146
+[31-May-2019 07:49:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cztradin/public_html/admindash/deposits.php on line 78
+[02-Jun-2019 17:44:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cztradin/public_html/admindash/withdraws.php on line 78
+[03-Jun-2019 10:28:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cztradin/public_html/admindash/deposits.php on line 78
+[03-Jun-2019 10:28:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cztradin/public_html/admindash/allocate.php on line 109
+[27-Jun-2019 10:50:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cztradin/public_html/admindash/allocate.php on line 109
+[09-Jul-2019 00:42:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cztradin/public_html/admindash/deposits.php on line 78

@@ -1,0 +1,1 @@
+[03-Jun-2019 12:46:38 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/cztradin/public_html/admin/index.php on line 40
