@@ -51,7 +51,7 @@
 							<div class="row">
 								<div class="col-sm-4 res-m-bttm">
 									<div class="contact-entry">
-										<h6><span>KryptHash</span></h6>
+										<h6><span>Cztrzdingoptions</span></h6>
 										<p>8649 W. Peachtree Street<br/>Anaheim, CA 92805</p>
 									</div>
 								</div>

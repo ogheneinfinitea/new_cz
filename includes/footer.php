@@ -43,9 +43,9 @@
 							<h5 class="wgs-title ucap">get in touch</h5>
 							<div class="wgs-content">
 								<ul class="wgs-contact-list">
-									<li><span class="pe pe-7s-map-marker"></span>8649 W. Peachtree Street <br/>Anaheim, CA 92805</li>
-									<li><span class="pe pe-7s-call"></span>Telephone : (209) 336 3058 </li>
-									<li><span class="pe pe-7s-global"></span>Email : <a href="mailto:infoinfo@bitblarg.com">info@bitblarg.com</a> <br/>Web : <a href="https://bitblarg.com/">https://bitblarg.com/</a></li>
+									<li><span class="pe pe-7s-map-marker"></span> Towers Business Park<br/>Didsbury M20 2YY</li>
+									<li><span class="pe pe-7s-call"></span>Telephone : +441158245319 </li>
+									<li><span class="pe pe-7s-global"></span>Email : <a href="mailto:support@cztradingoptions.com">support@cztradingoptions.com</a> <br/>Web : <a href="https://bitblarg.com/">https://Cztradingoptions.com/</a></li>
 								</ul>
 							</div>
 						</div>
@@ -64,7 +64,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="site-copy col-sm-7">
-						<p>Copyright &copy; 2008 Bitblarg.</p>
+						<p>Copyright &copy; 2020 Cztradingoptions.</p>
 					</div>
 					<div class="col-sm-5 text-right mobile-left">
 						<ul class="social">
