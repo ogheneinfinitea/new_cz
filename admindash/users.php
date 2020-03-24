@@ -59,10 +59,10 @@
                                             <tr>
                                             <th>ID</th>
                                                 <th>Username</th>
+                                                <th>Firstname</th>
                                                 <th>Email</th>
                                                 <th>Country</th>
                                                 <th>Phone Number</th>
-                                             >
                                                 <th>Status</th>
                                                 <th>Date Created</th>
                                                 
@@ -80,6 +80,7 @@
 
 
                                         $id = $row["id"];
+                                        $firstname=$row['firstname'];
                                         $username = $row["username"];
                       
                                    
@@ -89,7 +90,7 @@
                                         $country = $row["country"];
                                       
                                       
-                                        $mobile_no = $row["phone"];
+                                        $mobile_no = $row["mobile"];
                                         $status = $row["status"];
                                         $created_at = $row["date_created"];
                                         ?>
@@ -99,9 +100,8 @@
 <tr>
                                           <td><?php echo $id; ?></td>
                                             <td><?php echo $username; ?></td>
-                                            <!-- <td><?php echo $firstname; ?></td>
-                                            <td><?php echo $middlename; ?></td>
-                                            <td><?php echo $lastname; ?></td> -->
+                                            <td><?php echo $firstname; ?></td>
+                                            
                                             <td><?php echo $email; ?></td>
                                             <td><?php echo $country; ?></td>
                                             <td><?php echo $mobile_no; ?></td>
@@ -118,7 +118,7 @@
                                         </tr>
                                         <hr>
 
-                                        <?php $i++; } ?>;
+                                        <?php  } ?>
                                         </tbody>
                                     </table>
                                 </div>
