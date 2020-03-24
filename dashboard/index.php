@@ -83,8 +83,8 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
                             include("../db.php");
                               // }
                               $session_username= $_SESSION['username'];
-                            //   echo $session_username; 
-                              $sql="SELECT id, income,amount_deposited, withdrawal, revenue FROM tbl_revenue WHERE username ='$session_username'";
+                              echo $session_username; 
+                              $sql="SELECT id, income,deposit, withdrawal, revenue FROM tbl_users WHERE username ='$session_username'";
                                
                                 $result=$mysqli->query($sql);
                                 if ($result->num_rows > 0) {
@@ -106,7 +106,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
                             <div class="stat-widget-two">
                                 <div class="stat-content">
                                     <div class="stat-text">Deposits </div>
-                                    <div class="stat-digit color-success"> <i class="fa fa-usd"></i><?php echo $row['amount_deposited']; ?></div>
+                                    <div class="stat-digit color-success"> <i class="fa fa-usd"></i><?php echo $row['deposit']; ?></div>
                                 </div>
                                 <div class="progress">
                                     <div class="progress-bar progress-bar-success w-85" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
@@ -192,7 +192,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
             </div>
             <!-- End Container fluid  -->
             <!-- footer -->
-            <footer class="footer"> © 2018 Cztrzdingoptions All Right Reserved.</footer>
+            <footer class="footer"> © 2020 Cztrzdingoptions All Right Reserved.</footer>
             <!-- End footer -->
         </div>
         <!-- End Page wrapper  -->
