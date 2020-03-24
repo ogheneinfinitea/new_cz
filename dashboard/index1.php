@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <!-- Favicon icon -->
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
-    <title>CoinDash - Cryptocurrency Dashboard Admin Template</title>
+    <title>Cztrzdingoptions -  Dashboard</title>
     <link href="css/lib/owl.carousel.min.css" rel="stylesheet" />
     <link href="css/lib/owl.theme.default.min.css" rel="stylesheet" />
     <!-- Custom CSS -->
@@ -658,7 +658,7 @@
             </div>
             <!-- End Container fluid  -->
             <!-- footer -->
-             <footer class="footer"> © 2018 CoinDash All Right Reserved.</footer>
+             <footer class="footer"> © 2018 Cztrzdingoptions All Right Reserved.</footer>
             <!-- End footer -->
         </div>
         <!-- End Page wrapper  -->
