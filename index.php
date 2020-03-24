@@ -3,11 +3,11 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="KryptHash is a powerful Bitcoin Crypto Currency Company, With Expert Minners and Traders">
+		<meta name="description" content="Cztrzdingoptions is a powerful Bitcoin Crypto Currency Company, With Expert Minners and Traders">
 		<!-- Fav Icon  -->
 		<link rel="shortcut icon" href="images/favicon.png">
 		<!-- Site Title  -->
-		<title>KryptHash | HOME </title>
+		<title>Cztrzdingoptions | HOME </title>
 		<!-- Vendor Bundle CSS -->
 		<link rel="stylesheet" href="assets/css/vendor.bundle.css" >
 		<!-- Custom styles for this template -->
@@ -171,7 +171,7 @@ You can buy into pools for $500, $1,000 or $2,000. Or you can buy into all three
        			<div class="section-head">
 					<div class="row text-center">
 						<div class="col-md-12">
-							<h2 class="heading-section">bitcoin mining packages KryptHash offers</h2>
+							<h2 class="heading-section">bitcoin mining packages Cztrzdingoptions offers</h2>
 						</div>
 						<div class="gaps size-1x"></div>
 						<div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
