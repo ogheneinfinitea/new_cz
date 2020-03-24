@@ -60,8 +60,9 @@
                                             <th>ID</th>
                                                 <th>Username</th>
                                                 <th>Firstname</th>
+                                                <th>Lastname</th>
                                                 <th>Email</th>
-                                                <th>Country</th>
+                                             
                                                 <th>Phone Number</th>
                                                 <th>Status</th>
                                                 <th>Date Created</th>
@@ -81,6 +82,7 @@
 
                                         $id = $row["id"];
                                         $firstname=$row['firstname'];
+                                        $lastname=$row['lastname'];
                                         $username = $row["username"];
                       
                                    
@@ -101,9 +103,10 @@
                                           <td><?php echo $id; ?></td>
                                             <td><?php echo $username; ?></td>
                                             <td><?php echo $firstname; ?></td>
+                                            <td><?php echo $lastname; ?></td>
                                             
                                             <td><?php echo $email; ?></td>
-                                            <td><?php echo $country; ?></td>
+                                         
                                             <td><?php echo $mobile_no; ?></td>
                                             <td><?php echo $status; ?></td>
                                             <td><?php echo $created_at; ?></td>
@@ -116,7 +119,7 @@
                                            
                                             
                                         </tr>
-                                        <hr>
+                                        
 
                                         <?php  } ?>
                                         </tbody>

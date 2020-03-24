@@ -12,7 +12,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en">    
 
 <head>
     <meta charset="utf-8">
@@ -23,7 +23,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <meta name="author" content="">
     <!-- Favicon icon -->
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
-    <title>Bitrediff -Dashboard</title>
+    <title>Bitblarg -Dashboard</title>
 
     <link href="css/lib/owl.carousel.min.css" rel="stylesheet" />
     <link href="css/lib/owl.theme.default.min.css" rel="stylesheet" />
@@ -52,10 +52,10 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
                 <div class="navbar-header">
                     <a class="navbar-brand" href="index.html">
                         <!-- Logo icon -->
-                        <b><img src="images/logo.png" alt="homepage" class="dark-logo" /></b>
+                        <!--<b><img src="images/logo.png" alt="homepage" class="dark-logo" /></b>-->
                         <!--End Logo icon -->
                         <!-- Logo text -->
-                        <span><img src="images/logo-text.png" alt="homepage" class="dark-logo" /></span>
+                        <!--<span><img src="images/logo-text.png" alt="homepage" class="dark-logo" /></span>-->
                     </a>
                 </div>
                 <!-- End Logo -->
@@ -74,122 +74,136 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 
                 
 <div class="container-fluid">
+
                 <!-- Start Page Content -->
-                <div class="row">
-                    <div class="col-lg-4 responsive-md-100">
-                        <div class="card card-outline-primary">
-                            <div class="card-header">
-                                <h4 class="m-b-0 text-white">ALLOCATE FUNDS</h4>
-                                <?php
-
-                          include("../db.php")
-                                 ?>
-                        
-                        
-                            </div>
+                <!-- Container fluid  -->
+            <div class="container-fluid">
+                <!-- Start Page Content -->
+                <div class="row justify-content-center">
+                    <div class="col-lg-9">
+                        <div class="card">
                             <div class="card-body">
-                                <form action="" method="post">
-                                    <div class="form-body">
-                                        
-                                        <div class="row p-t-20">
-                                            <div class="col-md-8">
-                                                <div class="form-group">
-                                                    <!-- <label class="control-label">Amount of Bitcoin</label> -->
-                                                    <!-- <label for="country">Select User</label></span>      
-        
-        <select id="user_status" name="user_status" class="form-control">
-            <option value="Afghanistan">Afghanistan</option>
-            </select> -->
-            <?php 
-            echo "<select name= 'user_status'>";
-echo '<option value="">'.'--- Please Select Person ---'.'</option>';
-//$query=mysqli_query($con,"SELECT id,FirstName FROM persons");
-$query = mysqli_query($mysqli, "SELECT username FROM users");
-$query_display = mysqli_query($mysqli,"SELECT username *FROM users WHERE status =0");
-while($row=mysqli_fetch_array($query))
+<?php
 
+include("../db.php");
+$user_id = $_POST['user_bill'];
+echo $user_id;
 
-{
-    echo "<option value='". $row['id']."'>".$row['username']
- .'</option>';
- 
+?>
+
+<?php
+$sql=("SELECT * FROM tbl_automated where id ='$user_id' ");
+$result=$mysqli->query($sql);
+if ($result->num_rows>0) {
+$row=$result->fetch_assoc(); 
+
 }
-echo '</select>';
+?>
+                          
+                            
+                                <div class="form-validation">
+                                    <form class="form-valide" action="" method="post">
 
-if(isset($_POST['submit'])){
-    include('../db.php');
-
-    
-    $register_sql = $sql = "UPDATE users SET status='1' WHERE id=9";
-
-    $result = mysqli_query($mysqli, $register_sql);
-
-    if($result == TRUE){
-        $message = "User Has Been Activated";
-    echo "<script type='text/javascript'>alert('$message');</script>";
-  
-    } else{
-        echo "An Error occurred";
-       
-    }
-
-} 
-        ?>
-                                                   <!--  <small class="form-control-feedback"> Amount in Dollars </small> </div> -->
+                                    <div class="form-group row">
+                                            <label class="col-lg-4 col-form-label" for="val-currency">ID <span class="text-danger">*</span></label>
+                                            <div class="col-lg-6">
+                                                <input type="text" class="form-control" id="email" name="id"  placeholder="Enter Username" value="<?php echo $row['id']; ?>">
                                             </div>
-                                            </div>                             <!--/span-->
-                                            
-
-                                  
-                                        <!--/row-->
-                                        <div class="row">
-                                            
-                                            </div>
-                                            <!--/span-->
-                                            
-                                            <!--/span-->
                                         </div>
-                                        <!--/row-->
-                                        <div class="row">
-                                            
-                                           
-                                                </div>
-                                            </div>
-                                            <!--/span-->
-                                        </div>
-                                        <!--/row-->
+                                        <div class="form-group row">
+                                            <label class="col-lg-4 col-form-label" for="val-username">DEPOSITS <span class="text-danger">*</span></label>
+                                            <div class="col-lg-6">
+                                                <input type="text" class="form-control" id="fullname" name="deposit" placeholder="Enter  Fullname.." value="<?php echo $row['deposit']; ?>">                                </div>
                                         
-                                        <!--/row-->
-                                        <div class="form-group">
-                                                    <!-- <label class="control-label">Amount of Bitcoin</label> -->
-                                                    <input type="text" id="firstName" class="form-control" placeholder="Amount in Dollars">
-                                                   <!--  <small class="form-control-feedback"> Amount in Dollars </small> </div> -->
-                                            </div>
-                                            <!--/span-->
-                                            <div class="form-group">
-                                        <button type="submit" name="submit"class="btn btn-success"> <i class="fa fa-key">ALLOCATE</i> </button>
-                                     
-                                    </div>
-                                            <!--/span-->
+                                       
                                         </div>
-                                    </div>
-                                    
-                                </form>
+                                                     <div class="form-group row">
+                                            <label class="col-lg-4 col-form-label" for="val-currency">INCOME <span class="text-danger">*</span></label>
+                                            <div class="col-lg-6">
+                                                <input type="text" class="form-control" id="email" name="income"  placeholder="Enter Username" value="<?php echo $row['income']; ?>">
+                                            </div>
+                                        </div>
+                                       
+                                       
+                                        
+                                        <div class="form-group row">
+                                            <label class="col-lg-4 col-form-label" for="val-currency">REVENUE <span class="text-danger">*</span></label>
+                                            <div class="col-lg-6">
+                                                <input type="text" class="form-control" id="email" name="revenue"  placeholder="Enter Email" value="<?php echo $row['revenue']; ?>">
+                                            </div>
+                                        </div>
+                                 
+                                        </div>
+                                        <div class="form-group row">
+                                            <label class="col-lg-4 col-form-label" for="val-phoneus">WITHDRAWAL
+                                                
+                                            
+                                            <?php   echo $user_id; ?>
+                                            
+                                            
+                                            
+                                            <span class="text-danger">*</span></label>
+                                            <div class="col-lg-6">
+                                                <input type="text" class="form-control" id="val-phoneus" name="withdrawal" placeholder="212-999-0000" value="<?php echo $row['withdrawal']; ?>">
+                                            </div>
+                                        </div>
+                                       
+                                        
+                                        <div class="form-group row">
+                                            <div class="col-lg-8 ml-auto">
+                                                <button type="submit" name="allocate" class="btn btn-primary">ALLOCATE FUNDS
+
+                                                                
+
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+
                             </div>
                         </div>
                     </div>
-
-
-
-
-
-                
-
+                </div>
                 <!-- End PAge Content -->
             </div>
+
+         <!-- End PAge Content -->
+            </div>
+
+
+
+            <?php
+if (isset($_POST['allocate'])) {
+      $id=$_POST['id'];
+    $deposit=$_POST['deposit'];
+    $income=$_POST['income'];
+
+    $revenue=$_POST['revenue'];
+    $withdrawal=$_POST['withdrawal'];
+
+    $sql=("UPDATE  tbl_automated SET deposit='$deposit', income= '$income', revenue='$revenue', withdrawal='$withdrawal'  WHERE id='$id' ");
+    $result = mysqli_query($mysqli, $sql);
+
+    if($result == TRUE){
+        ?>
+
+
+
+<script type='text/javascript'>
+               alert("allocated");
+            window.location = "index.php";
+            </script>
+ <?php
+            
+        }else {
+            echo "fail";
+        }
+
+} ?>
             <!-- End Container fluid  -->
             <!-- footer -->
-            <footer class="footer"> © 2018 Bitrediff All Right Reserved.</footer>
+            <footer class="footer"> © 2018 Bitblarg All Right Reserved.</footer>
             <!-- End footer -->
         </div>
         <!-- End Page wrapper  -->
@@ -254,6 +268,6 @@ if(isset($_POST['submit'])){
     <!--Custom JavaScript -->
     <script src="js/custom.min.js"></script>
 
-</body>
-
+</<body>
+    
 </html>
