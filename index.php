@@ -3,11 +3,11 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="Cztradingoptions is a powerful Bitcoin Crypto Currency Company, With Expert Minners and Traders">
+		<meta name="description" content="Cztrazdingoptions is a powerful Bitcoin Crypto Currency Company, With Expert Minners and Traders">
 		<!-- Fav Icon  -->
-		<link rel="shortcut icon" href="pix/favicon1.png">
+		<link rel="shortcut icon" href="images/favicon.png">
 		<!-- Site Title  -->
-		<title>Cztradingoptions | HOME </title>
+		<title>Cztrazdingoptions | HOME </title>
 		<!-- Vendor Bundle CSS -->
 		<link rel="stylesheet" href="assets/css/vendor.bundle.css" >
 		<!-- Custom styles for this template -->
@@ -171,7 +171,7 @@ You can buy into pools for $500, $1,000 or $2,000. Or you can buy into all three
        			<div class="section-head">
 					<div class="row text-center">
 						<div class="col-md-12">
-							<h2 class="heading-section">bitcoin mining packages Cztradingoptions offers</h2>
+							<h2 class="heading-section">bitcoin mining packages Cztrazdingoptions offers</h2>
 						</div>
 						<div class="gaps size-1x"></div>
 						<div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
@@ -183,9 +183,9 @@ You can buy into pools for $500, $1,000 or $2,000. Or you can buy into all three
        			<div class="row">
 					<div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 res-m-bttm">
 						<div class="box-miner">
-							<h4 class="box-miner-title text-center">GOLD PLAN</h4>
+							<h4 class="box-miner-title text-center">STARTER PLAN</h4>
 							<div class="box-miner-image">
-								<img src="pix/starter_cz.png" alt="bitrediff_basicplan">
+								<img src="pix/starter_cz.jpg" alt="bitrediff_basicplan">
 							</div>
 							<ul class="box-miner-list">
 								
@@ -197,9 +197,9 @@ You can buy into pools for $500, $1,000 or $2,000. Or you can buy into all three
 					</div><!-- col -->
 					<div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 res-m-bttm">
 						<div class="box-miner">
-							<h4 class="box-miner-title text-center">PLATINUM   PLAN</h4>
+							<h4 class="box-miner-title text-center">BEST BUY PLAN</h4>
 							<div class="box-miner-image">
-								<img src="pix/bestbuy_cz.png" alt="bitrediff_classicplan">
+								<img src="pix/best_cz.jpg" alt="bitrediff_classicplan">
 							</div>
 							<ul class="box-miner-list">
 						
@@ -211,9 +211,9 @@ You can buy into pools for $500, $1,000 or $2,000. Or you can buy into all three
 					</div><!-- col -->
 					<div class="col-md-4 col-md-offset-0 col-sm-8 col-sm-offset-2 res-m-bttm">
 						<div class="box-miner">
-							<h4 class="box-miner-title text-center">DIAMOND PLAN</h4>
+							<h4 class="box-miner-title text-center">PREOFESSIONAL PLAN</h4>
 							<div class="box-miner-image">
-							<img src="pix/professional_cz.png" alt="bitrediff_vipplan">
+							<img src="pix/professional_cz.jpg" alt="bitrediff_vipplan">
 							</div>
 							<ul class="box-miner-list">
 								
@@ -260,7 +260,7 @@ You can buy into pools for $500, $1,000 or $2,000. Or you can buy into all three
        	<!--End Section -->
 
        	<!--Section -->
-       	<div class="section section-pad bg-grey">
+       	<!-- <div class="section section-pad bg-grey">
        		<div class="container">
        			<div class="section-head">
 					<div class="row text-center">
@@ -300,8 +300,8 @@ You can buy into pools for $500, $1,000 or $2,000. Or you can buy into all three
        				</div>
        			</div>
        		</div>
-       	</div>
-       	<hr>
+       	</div> -->
+
 
        	<!--End Section -->
        	
