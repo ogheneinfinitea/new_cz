@@ -3,11 +3,11 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="Cztradingoptions is a powerful Bitcoin Crypto Currency Wallet and Mining Template with full of customization options and features">
+		<meta name="description" content="Cztrazdingoptions is a powerful Bitcoin Crypto Currency Wallet and Mining Template with full of customization options and features">
 		<!-- Fav Icon  -->
-		<link rel="shortcut icon" href="px/favicon1.png">
+		<link rel="shortcut icon" href="images/favicon.png">
 		<!-- Site Title  -->
-		<title>Faq - Cztradingoptions - Bitcoin Crypto Currency Wallet and Mining Template</title>
+		<title>Faq - Cztrazdingoptions - Bitcoin Crypto Currency Wallet and Mining Template</title>
 		<!-- Vendor Bundle CSS -->
 		<link rel="stylesheet" href="assets/css/vendor.bundle.css" >
 		<!-- Custom styles for this template -->
@@ -107,7 +107,7 @@ The minimum deposit amount is $100, the maximum you can deposit at one time is $
 			<div class="container">
 				<div class="row">
 					<div class="site-copy col-sm-7">
-						<p>Copyright &copy; 2018 Cztradingoptions. <a href="#"></a></p>
+						<p>Copyright &copy; 2018 Cztrazdingoptions. <a href="#"></a></p>
 					</div>
 					<div class="col-sm-5 text-right mobile-left">
 						<ul class="social">

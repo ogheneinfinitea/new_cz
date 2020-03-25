@@ -60,7 +60,7 @@ $revenue="0";
 		<!-- Fav Icon  -->
 		<link rel="shortcut icon" href="images/favicon.png">
 		<!-- Site Title  -->
-		<title>Sign In/Sign Up - Cztradingoptions</title>
+		<title>Sign In/Sign Up - Cztrazdingoptions</title>
 		<!-- Vendor Bundle CSS -->
 		<link rel="stylesheet" href="assets/css/vendor.bundle.css" >
 		<!-- Custom styles for this template -->
@@ -94,7 +94,12 @@ $revenue="0";
 							<div class="row">
 								<div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
                                     <h3 class="heading-lead center">Login Your Account</h3>
-                                    <p>
+									<div class="alert alert-danger" role="alert">
+								<strong> <?php 
+								$login_error_msg="";
+								echo $login_error_msg  ?></strong> 
+                                <button class="close" data-dismiss="alert"><i class="zmdi zmdi-close"></i></button>
+                            </div>
 
                                    <?php
 										  include("db.php");
@@ -566,7 +571,7 @@ $revenue="0";
 								<ul class="wgs-contact-list">
 									<li><span class="pe pe-7s-map-marker"></span>8649 W. Peachtree Street <br/>Anaheim, CA 92805</li>
 									<li><span class="pe pe-7s-call"></span>Telephone : (209) 336 3058 </li>
-									<li><span class="pe pe-7s-global"></span>Email : <a href="mailto:infoinfo@Cztradingoptions.com">info@Cztradingoptions.com</a> <br/>Web : <a href="https://Cztradingoptions.com/">https://Cztradingoptions.com/</a></li>
+									<li><span class="pe pe-7s-global"></span>Email : <a href="mailto:infoinfo@Cztrazdingoptions.com">info@Cztrazdingoptions.com</a> <br/>Web : <a href="https://Cztrazdingoptions.com/">https://Cztrazdingoptions.com/</a></li>
 								</ul>
 							</div>
 						</div>
@@ -585,7 +590,7 @@ $revenue="0";
 			<div class="container">
 				<div class="row">
 					<div class="site-copy col-sm-7">
-						<p>Copyright &copy; 2008 Cztradingoptions.</p>
+						<p>Copyright &copy; 2008 Cztrazdingoptions.</p>
 					</div>
 					<div class="col-sm-5 text-right mobile-left">
 						<ul class="social">

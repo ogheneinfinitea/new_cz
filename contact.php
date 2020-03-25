@@ -3,11 +3,11 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="Cztradingoptions is a powerful Bitcoin Crypto Currency Wallet and Mining">
+		<meta name="description" content="Cztrazdingoptions is a powerful Bitcoin Crypto Currency Wallet and Mining">
 		<!-- Fav Icon  -->
-		<link rel="shortcut icon" href="pix/favicon1.png">
+		<link rel="shortcut icon" href="images/favicon.png">
 		<!-- Site Title  -->
-		<title>Contact - Cztradingoptions </title>
+		<title>Contact - Cztrazdingoptions </title>
 		<!-- Vendor Bundle CSS -->
 		<link rel="stylesheet" href="assets/css/vendor.bundle.css" >
 		<!-- Custom styles for this template -->
@@ -51,7 +51,7 @@
 							<div class="row">
 								<div class="col-sm-4 res-m-bttm">
 									<div class="contact-entry">
-										<h6><span>Cztradingoptions</span></h6>
+										<h6><span>Cztrazdingoptions</span></h6>
 										<p>Towers Business Park<br/>Didsbury M20 2YY</p>
 									</div>
 								</div>
@@ -62,7 +62,7 @@
 									</div>
 
 									
-								</div>
+								</div>`
 								<div class="col-sm-4 res-m-bttm">
 									<div class="contact-entry">
 										<h6>office hours</h6>
