@@ -3,11 +3,11 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="Cztrzdingoptions is a powerful Bitcoin Crypto Currency Wallet and Mining">
+		<meta name="description" content="Cztrazdingoptions is a powerful Bitcoin Crypto Currency Wallet and Mining">
 		<!-- Fav Icon  -->
 		<link rel="shortcut icon" href="images/favicon.png">
 		<!-- Site Title  -->
-		<title>Contact - Cztrzdingoptions </title>
+		<title>Contact - Cztrazdingoptions </title>
 		<!-- Vendor Bundle CSS -->
 		<link rel="stylesheet" href="assets/css/vendor.bundle.css" >
 		<!-- Custom styles for this template -->
@@ -51,15 +51,17 @@
 							<div class="row">
 								<div class="col-sm-4 res-m-bttm">
 									<div class="contact-entry">
-										<h6><span>Cztrzdingoptions</span></h6>
-										<p>8649 W. Peachtree Street<br/>Anaheim, CA 92805</p>
+										<h6><span>Cztrazdingoptions</span></h6>
+										<p>Towers Business Park<br/>Didsbury M20 2YY</p>
 									</div>
 								</div>
 								<div class="col-sm-4 res-m-bttm">
 									<div class="contact-entry">
 										<h6>contact number</h6>
-										<p>phone:  (209) 336 3058</p>
+										<p>phone:  +441158245319</p>
 									</div>
+
+									
 								</div>
 								<div class="col-sm-4 res-m-bttm">
 									<div class="contact-entry">
