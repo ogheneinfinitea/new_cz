@@ -26,7 +26,7 @@
 							<h5 class="wgs-title ucap">Information</h5>
 							<div class="wgs-content">
 								<ul class="menu">
-									<li><a href="#">Payment Options</a></li>
+									<li><a href="payment.php">Payment Options</a></li>
 									<li><a href="#">Fee Schedule</a></li>
 									<li><a href="#">Getting Started</a></li>
 									<li><a href="#">Identity Verification Guide</a></li>

@@ -52,6 +52,7 @@
 										
 								</li>
 								<li><a href="buy-sell.php">buy &amp; Sell</a></li>
+								<li><a href="payment.php">MAKE &amp; PAYMENT</a></li>
 								
 								<li><a href="contact.php">Contact</a></li>
 								<li><a href="faqs.php">Faqs</a></li>
