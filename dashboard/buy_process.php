@@ -100,7 +100,7 @@ $mysqli->close();
                                 <h4 class="card-title">NOTIFICATION</h4>
                                 <div class="card-content">
                                     <div class="alert alert-primary">
-Make Your Paymet into This Bitcoin Wallet  or Scan the QR CODE below 15G2vxr7unG7nNjmg5bV5NEGaMyqNVhtG2                                    </div>
+Make Your Paymet into This Bitcoin Wallet  or Scan the QR CODE below 1GBAR6KTYCPeJFBPdtHAMn7iEgGTeNYduu                                    </div>
 <img  src="images/qr.png" class="">
 <hr>
 <div class="alert alert-primary">

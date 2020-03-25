@@ -40,8 +40,8 @@ include 'includes/header.php';
 								 As soon as you set up your account you can start to mine your first coins.</p>
 							
 								<ul class="btns">
-									<li><a href="users" class="btn">Login</a></li>
-									<li><a href="users/signup.php" class="btn btn-outline">Signup</a></li>
+									<li><a href="login.php" class="btn">Login</a></li>
+									<li><a href="login.php" class="btn btn-outline">Signup</a></li>
 								</ul>
 							</div>
 						</div>

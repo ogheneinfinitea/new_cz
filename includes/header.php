@@ -13,8 +13,8 @@
 								<ul class="top-nav hidden-xs hidden-sm">
 									<li><a href="faqs.html">Help</a></li>
 									<li><a href="faqs.html">Support</a></li>
-									<li><a href="users/">Login</a></li>
-									<li><a href="users/signup.php">Register</a></li>
+									<li><a href="login.php">Login</a></li>
+									<li><a href="login.php">Register</a></li>
 								</ul>
 							</div>
 							<div class="col-md-4 col-sm-6 text-right mobile-center">
