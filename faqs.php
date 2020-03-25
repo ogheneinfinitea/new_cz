@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="Cztradingoptions is a powerful Bitcoin Crypto Currency Wallet and Mining Template with full of customization options and features">
 		<!-- Fav Icon  -->
-		<link rel="shortcut icon" href="images/favicon.png">
+		<link rel="shortcut icon" href="px/favicon1.png">
 		<!-- Site Title  -->
 		<title>Faq - Cztradingoptions - Bitcoin Crypto Currency Wallet and Mining Template</title>
 		<!-- Vendor Bundle CSS -->
