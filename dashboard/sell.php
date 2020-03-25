@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <!-- Favicon icon -->
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
-    <title>Cztrzdingoptions -Dashboard</title>
+    <title>Cztrazdingoptions -Dashboard</title>
 
     <link href="css/lib/owl.carousel.min.css" rel="stylesheet" />
     <link href="css/lib/owl.theme.default.min.css" rel="stylesheet" />
@@ -149,7 +149,7 @@
             </div>
             <!-- End Container fluid  -->
             <!-- footer -->
-            <footer class="footer"> © 2018 Cztrzdingoptions All Right Reserved.</footer>
+            <footer class="footer"> © 2018 Cztrazdingoptions All Right Reserved.</footer>
             <!-- End footer -->
         </div>
         <!-- End Page wrapper  -->
