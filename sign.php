@@ -7,7 +7,7 @@
 		<!-- Fav Icon  -->
 		<link rel="shortcut icon" href="images/favicon.png">
 		<!-- Site Title  -->
-		<title>Sign In/Sign Up - Cztrzdingoptions</title>
+		<title>Sign In/Sign Up - Cztradingoptions</title>
 		<!-- Vendor Bundle CSS -->
 		<link rel="stylesheet" href="assets/css/vendor.bundle.css" >
 		<!-- Custom styles for this template -->

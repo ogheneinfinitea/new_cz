@@ -7,7 +7,7 @@
 		<!-- Fav Icon  -->
 		<link rel="shortcut icon" href="images/favicon.png">
 		<!-- Site Title  -->
-		<title>Cztrazdingoptions | ABOUT US </title>
+		<title>Cztradingoptions | ABOUT US </title>
 		<!-- Vendor Bundle CSS -->
 		<link rel="stylesheet" href="assets/css/vendor.bundle.css" >
 		<!-- Custom styles for this template -->
@@ -48,13 +48,13 @@
        			<div class="row row-vm">
        				<div class="col-md-5 res-m-bttm">
 						<div class="text-block">
-							<h2>About <span>Cztrazdingoptions</span></h2>
-							<p align="justify">Cztrazdingoptions is a true opportunity to earn on cryptocurrency.
-								Nowadays cryptocurrency is one of the main payment instruments, which can be used online. Cztrazdingoptions has been using this kind of digital payment for quite a while to gain and raise profit.</p>
+							<h2>About <span>Cztradingoptions</span></h2>
+							<p align="justify">Cztradingoptions is a true opportunity to earn on cryptocurrency.
+								Nowadays cryptocurrency is one of the main payment instruments, which can be used online. Cztradingoptions has been using this kind of digital payment for quite a while to gain and raise profit.</p>
 
-								<p align="justify">Cztrazdingoptions, is an officially registered company which gives its clients all required guarantees, including confidentiality of data provided by clients at the registration procedure. Apart from this we guarantee accrual of requested payments in due time and full amount. The company’s system, including support service, works 24 hours, which means you are always welcome to contact our experts in case you have any questions.
+								<p align="justify">Cztradingoptions, is an officially registered company which gives its clients all required guarantees, including confidentiality of data provided by clients at the registration procedure. Apart from this we guarantee accrual of requested payments in due time and full amount. The company’s system, including support service, works 24 hours, which means you are always welcome to contact our experts in case you have any questions.
 </p>
-								<p align="justify">Cztrazdingoptions, provides its clients with an opportunity to invest money into mining farms located all around the world to obtain quite a big income later, which can be done even without client’s direct participation. The company actively uses trading bots on digital currency stock-markets, which is very convenient and profitable. We also try to attract new partners and share our experience with the like-minded people all over the world.</p>
+								<p align="justify">Cztradingoptions, provides its clients with an opportunity to invest money into mining farms located all around the world to obtain quite a big income later, which can be done even without client’s direct participation. The company actively uses trading bots on digital currency stock-markets, which is very convenient and profitable. We also try to attract new partners and share our experience with the like-minded people all over the world.</p>
 							<ul>
 								<li>you can exchange your bitcoin by eth.</li>
 								<li>best profite bitco.exge for all over the world.</li>

@@ -7,7 +7,7 @@
 		<!-- Fav Icon  -->
 		<link rel="shortcut icon" href="images/favicon.png">
 		<!-- Site Title  -->
-		<title>Cztrzdingoptions | HOME </title>
+		<title>Cztradingoptions | HOME </title>
 		<!-- Vendor Bundle CSS -->
 		<link rel="stylesheet" href="assets/css/vendor.bundle.css" >
 		<!-- Custom styles for this template -->
@@ -185,7 +185,7 @@ You can buy into pools for $500, $1,000 or $2,000. Or you can buy into all three
 						<div class="box-miner">
 							<h4 class="box-miner-title text-center">GOLD PLAN</h4>
 							<div class="box-miner-image">
-								<img src="pix/gold_plan.jpg" alt="bitrediff_basicplan">
+								<img src="pix/starter_cz.png" alt="bitrediff_basicplan">
 							</div>
 							<ul class="box-miner-list">
 								
@@ -199,7 +199,7 @@ You can buy into pools for $500, $1,000 or $2,000. Or you can buy into all three
 						<div class="box-miner">
 							<h4 class="box-miner-title text-center">PLATINUM   PLAN</h4>
 							<div class="box-miner-image">
-								<img src="pix/plantinium_plan.jpg" alt="bitrediff_classicplan">
+								<img src="pix/bestbuy_cz.png" alt="bitrediff_classicplan">
 							</div>
 							<ul class="box-miner-list">
 						
@@ -213,7 +213,7 @@ You can buy into pools for $500, $1,000 or $2,000. Or you can buy into all three
 						<div class="box-miner">
 							<h4 class="box-miner-title text-center">DIAMOND PLAN</h4>
 							<div class="box-miner-image">
-							<img src="pix/diamond_plan.jpg" alt="bitrediff_vipplan">
+							<img src="pix/professional_cz.png" alt="bitrediff_vipplan">
 							</div>
 							<ul class="box-miner-list">
 								

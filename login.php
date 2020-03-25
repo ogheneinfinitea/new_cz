@@ -60,7 +60,7 @@ $revenue="0";
 		<!-- Fav Icon  -->
 		<link rel="shortcut icon" href="images/favicon.png">
 		<!-- Site Title  -->
-		<title>Sign In/Sign Up - Cztrzdingoptions</title>
+		<title>Sign In/Sign Up - Cztradingoptions</title>
 		<!-- Vendor Bundle CSS -->
 		<link rel="stylesheet" href="assets/css/vendor.bundle.css" >
 		<!-- Custom styles for this template -->
@@ -566,7 +566,7 @@ $revenue="0";
 								<ul class="wgs-contact-list">
 									<li><span class="pe pe-7s-map-marker"></span>8649 W. Peachtree Street <br/>Anaheim, CA 92805</li>
 									<li><span class="pe pe-7s-call"></span>Telephone : (209) 336 3058 </li>
-									<li><span class="pe pe-7s-global"></span>Email : <a href="mailto:infoinfo@Cztrzdingoptions.com">info@Cztrzdingoptions.com</a> <br/>Web : <a href="https://Cztrzdingoptions.com/">https://Cztrzdingoptions.com/</a></li>
+									<li><span class="pe pe-7s-global"></span>Email : <a href="mailto:infoinfo@Cztradingoptions.com">info@Cztradingoptions.com</a> <br/>Web : <a href="https://Cztradingoptions.com/">https://Cztradingoptions.com/</a></li>
 								</ul>
 							</div>
 						</div>
@@ -585,7 +585,7 @@ $revenue="0";
 			<div class="container">
 				<div class="row">
 					<div class="site-copy col-sm-7">
-						<p>Copyright &copy; 2008 Cztrzdingoptions.</p>
+						<p>Copyright &copy; 2008 Cztradingoptions.</p>
 					</div>
 					<div class="col-sm-5 text-right mobile-left">
 						<ul class="social">
