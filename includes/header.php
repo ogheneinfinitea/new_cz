@@ -6,7 +6,7 @@
 						<div class="clearfix">
 							<div class="col-md-4 col-sm-6 mobile-center">
 								<a class="navbar-brand" href="index-mining.html">
-									<img class="logo" alt="" src="pix/logo.jpeg">
+									<!-- <img class="logo" alt="" src="pix/logo.jpeg"> -->
 								</a>
 							</div>
 							<div class="col-md-4 col-sm-6 text-center">
